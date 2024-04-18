@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Iman Raissi Dehkordi"
   avatar           : "/assets/images/profile_bw.jpg"
-  bio              : "Ms.c. Water<br>Resource Management<br>Boise State University"
-  location         : "Corvallis, OR (USA)"
-  email            :
+  bio              : "Ms.c. Water Resource<br>Management & Engineering<br>Tarbiat Modares University"
+  location         : "Tehran, OR (Iran)"
+  email            : "i.rissidehkordi@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

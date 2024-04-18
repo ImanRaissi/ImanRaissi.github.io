@@ -18,12 +18,12 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : #"-"
-subtitle                 : #"Student, PhD in Geosciences"
-name                     : #"Brenton A. Wilder"
+subtitle                 : #"Researcher, Ms.c. in Water Resource Management & Engineering"
+name                     : #"Iman Raissi Dehkordi"
 description              : #"Student, PhD in Geosciences"
 url                      : "https://ImanRaissi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "brentwilder/brentwilder.github.io"
+repository               : "ImanRaissi/ImanRaissi.github.io"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -40,7 +40,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark" # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
     branch               : # "master"
@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:brentwilder@u.boisestate.edu"
+      url: "mailto:i.raissidehkordi@gmail.com"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=WMbxlQ4AAAAJ&hl=en"
